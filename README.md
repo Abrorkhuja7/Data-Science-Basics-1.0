@@ -1,5 +1,5 @@
 # dsb_1_1
-## UNIX Command Line Tools – Data Processing Project
+### UNIX Command Line Tools – Data Processing Project
 This project demonstrates basic data collection and preprocessing using UNIX command-line tools. The workflow is built around vacancy data for **Data Scientist** roles retrieved from the HeadHunter API.
 
 ### Overview
@@ -14,7 +14,7 @@ The project covers:
 - Concatenating partitioned files
 
 # dsb_1_2
-## Intro to Python: Syntax and Semantics
+### Intro to Python: Syntax and Semantics
 This project introduces fundamental Python 3 concepts, focusing on syntax, semantics, and core data structures. It covers basic scripting, file handling, dictionaries, sets, sorting, string processing, and simple encryption.
 
 ### Overview
@@ -25,7 +25,7 @@ This project introduces fundamental Python 3 concepts, focusing on syntax, seman
 - Sorting dictionaries
 
 # dsb_1_3
-## Intro to Python: OOP Skills
+### Intro to Python: OOP Skills
 - Set operations
 - String manipulation
 - Caesar cipher implementation
