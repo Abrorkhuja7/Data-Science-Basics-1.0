@@ -1,0 +1,3 @@
+ivan.petrov@corp.com
+anna.smith@corp.com
+john.snow@corp.com
