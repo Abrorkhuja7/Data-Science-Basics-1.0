@@ -1,0 +1,5 @@
+termgraph
+beautifulsoup4
+pytest
+requests
+httpx
