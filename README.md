@@ -41,12 +41,61 @@ The project progressively builds an analytical tool for coin toss data using:
 - Logging
 - Telegram webhook notifications
 
+# dsb_1_4
+### Intro to Python: Package Management and Testing
+This project focuses on managing Python environments and external libraries using professional development practices. It introduces dependency isolation, package installation strategies, profiling, and automated testing.
+
+### Overview
+- Creating and activating virtual environments
+- Safe package installation with `pip`
+- Managing dependencies using `requirements.txt`
+- Terminal visualization with external libraries
+- Web scraping with BeautifulSoup
+- Working with HTTP client libraries
+- Performance profiling with `cProfile` and `pstats`
+- Optimizing code based on profiling results
+- Writing unit tests with PyTest
+- Exception handling and environment validation
+
+# dsb_1_5
+### Intro to Python: Efficient Code Practices
+
+This project focuses on writing faster and more memory-efficient Python code. It compares different programming approaches and evaluates their performance using benchmarking and profiling techniques.
+
+### Overview
+- Performance benchmarking with `timeit`
+- Comparing loops, list comprehensions, `map()`, and `filter()`
+- Functional programming with `reduce()`
+- Counting data efficiently using `collections.Counter`
+- Command-line argument handling with `sys`
+- Generating large datasets for performance testing
+- Measuring execution time and function calls
+- Memory usage analysis (ordinary vs generator approach)
+- Working with large CSV files (MovieLens dataset)
+- Understanding time vs space trade-offs
 
 
+# dsb_1_6
+### MovieLens Analytics
+This project consolidates previous Python skills through a structured data analysis task based on the MovieLens dataset. It focuses on modular design, testing, and storytelling through data.
 
+### Overview
+- Object-oriented module design (`movielens_analysis.py`)
+- Working with structured CSV datasets
+- Data parsing and preprocessing
+- Classes: `Ratings`, `Movies`, `Tags`, `Links`
+- Custom analytical methods for each dataset
+- Sorting, filtering, aggregations
+- Unit testing with PyTest
+- Type validation and correctness checks
+- Report creation in Jupyter Notebook
+- Performance measurement using `%timeit`
+- Data storytelling through structured analysis
 
-
-
+The project results in:
+- A reusable analytical module
+- A tested codebase
+- An interactive Jupyter report that presents insights as a coherent analytical story
 
 
 
