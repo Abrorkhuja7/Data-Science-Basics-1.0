@@ -92,10 +92,6 @@ This project consolidates previous Python skills through a structured data analy
 - Performance measurement using `%timeit`
 - Data storytelling through structured analysis
 
-The project results in:
-- A reusable analytical module
-- A tested codebase
-- An interactive Jupyter report that presents insights as a coherent analytical story
 
 
 
